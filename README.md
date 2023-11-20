@@ -2,7 +2,7 @@
 I am Jan, the group leader for Materials Infromatics at the [Max Planck Institut für Eisenforschung (for iron research)](https://www.mpie.de), where I apply methods from computer science, including but not limited to machine learning, to discover new materials. 
 In addition, I lead the development of the [pyiron workflow framework](https://pyiron.org) and maintain of over 600 [materials science related software packages](https://github.com/jan-janssen/conda-forge-contribution) on [conda-forge](https://conda-forge.org). 
 
-## Recent contributions to the [pyiron project](https://github.com/pyiron): 
+## Contributions to the [pyiron project](https://github.com/pyiron): 
 
 | Name | Documentation | Conda Package | 
 |------|:-------------:|:-------------:|
