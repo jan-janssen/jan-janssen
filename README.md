@@ -6,7 +6,7 @@ In addition, I lead the development of the [pyiron workflow framework](https://p
 ## Recent contributions to the [pyiron project](https://github.com/pyiron): 
 
 | Name | Documentation | Conda Package | 
-|:----:|:-------------:|:-------------:|
+|------|:-------------:|:-------------:|
 | [pyiron/atomistics](https://github.com/pyiron/atomistics) | [:books:](https://atomistics.readthedocs.io) | [:package:](https://anaconda.org/conda-forge/atomistics) |
 | [pyiron/pympipool](https://github.com/pyiron/pympipool) | [:books:](https://pympipool.readthedocs.io) | [:package:](https://anaconda.org/conda-forge/pympipool) |
 | [pyiron/pysqa](https://github.com/pyiron/pysqa) | [:books:](https://pysqa.readthedocs.io) | [:package:](https://anaconda.org/conda-forge/pysqa) |
@@ -14,7 +14,7 @@ In addition, I lead the development of the [pyiron workflow framework](https://p
 ## Contributions to open-source projects during my Postdoc at [Los Alamos National Laboratory](https://github.com/lanl):
 
 | Name | Documentation | Conda Package |
-|:----:|:-------------:|:-------------:|
+|------|:-------------:|:-------------:|
 | [lanl/architector](https://github.com/lanl/Architector) | | [:package:](https://anaconda.org/conda-forge/architector) |
 | [FitSNAP/FitSNAP](https://github.com/FitSNAP/FitSNAP) | [:books:](https://fitsnap.github.io) | [:package:](https://anaconda.org/conda-forge/fitsnap3) |
 | [lanl/hippynn](https://github.com/lanl/hippynn) | [:books:](https://lanl.github.io/hippynn/) | [:package:](https://anaconda.org/conda-forge/hippynn) |
@@ -22,6 +22,6 @@ In addition, I lead the development of the [pyiron workflow framework](https://p
 ## Personal (non scientific) projects: 
 
 | Name | Documentation | Conda Package |
-|:----:|:-------------:|:-------------:|
+|------|:-------------:|:-------------:|
 | [jan-janssen/gmailsorter](https://github.com/jan-janssen/gmailsorter) | [:books:](https://gmailsorter.readthedocs.io/) | [:package:](https://anaconda.org/conda-forge/gmailsorter) |
 | [jan-janssen/pyauthenticator](https://github.com/jan-janssen/pyauthenticator) |   | [:package:](https://anaconda.org/conda-forge/pyauthenticator) |
