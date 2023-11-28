@@ -1,6 +1,6 @@
 # Hi there 👋
-I am Jan, the group leader for Materials Informatics at the [Max Planck Institut für Eisenforschung (for iron research)](https://github.com/eisenforschung), where I apply methods from computer science including machine learning to discover new materials. 
-In addition, I lead the development of the [pyiron workflow framework](https://github.com/pyiron) and maintain [over 600 materials science related software packages](https://github.com/jan-janssen/conda-forge-contribution) on [conda-forge](https://github.com/conda-forge) to enable reproducible materials science.
+I am Jan, the group leader for Materials Informatics at the [Max-Planck Institut für Eisenforschung](https://github.com/eisenforschung), where I apply methods from computer science including machine learning to discover new materials. 
+In addition, I lead the development of the [pyiron workflow framework](https://github.com/pyiron) and maintain [over 650 materials science related software packages](https://github.com/jan-janssen/conda-forge-contribution) on [conda-forge](https://github.com/conda-forge) to enable reproducible materials science.
 
 ## Contributions to the [pyiron project](https://github.com/pyiron): 
 
