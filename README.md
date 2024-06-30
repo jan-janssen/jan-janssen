@@ -18,7 +18,7 @@ In addition, I lead the development of the [pyiron workflow framework](https://g
 | [FitSNAP/FitSNAP](https://github.com/FitSNAP/FitSNAP) | Software for generating SNAP machine-learning interatomic potentials | [:books:](https://fitsnap.github.io) | [:package:](https://anaconda.org/conda-forge/fitsnap3) |
 | [lanl/hippynn](https://github.com/lanl/hippynn) | A modular library for atomistic machine learning with pytorch | [:books:](https://lanl.github.io/hippynn/) | [:package:](https://anaconda.org/conda-forge/hippynn) |
 
-## Contributions to the conda-forge community 
+## Contributions to the [conda-forge community](https://github.com/conda-forge) 
 
 | Name | Description | Documentation | Conda Package |
 |------|-------------|:-------------:|:-------------:|
