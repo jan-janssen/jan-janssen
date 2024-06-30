@@ -1,6 +1,6 @@
 # Hi there 👋
 I am Jan, the group leader for Materials Informatics at the [Max-Planck Institut für Eisenforschung](https://github.com/eisenforschung), where I apply methods from computer science including machine learning to discover new materials. 
-In addition, I lead the development of the [pyiron workflow framework](https://github.com/pyiron) and maintain [over 700 materials science related software packages](https://github.com/jan-janssen/conda-forge-contribution) on [conda-forge](https://github.com/conda-forge) to enable reproducible materials science.
+In addition, I lead the development of the [pyiron workflow framework](https://github.com/pyiron) and maintain [over 800 materials science related software packages](https://github.com/jan-janssen/conda-forge-contribution) on [conda-forge](https://github.com/conda-forge) to enable reproducible materials science.
 
 ## Contributions to the [pyiron project](https://github.com/pyiron): 
 
@@ -17,6 +17,14 @@ In addition, I lead the development of the [pyiron workflow framework](https://g
 | [lanl/architector](https://github.com/lanl/Architector) | A 3D chemical structure generation software package designed to take minimal 2D information about ligands and metal centers and generates chemically sensible 3D conformers and stereochemistry of the organometallic compounds. | | [:package:](https://anaconda.org/conda-forge/architector) |
 | [FitSNAP/FitSNAP](https://github.com/FitSNAP/FitSNAP) | Software for generating SNAP machine-learning interatomic potentials | [:books:](https://fitsnap.github.io) | [:package:](https://anaconda.org/conda-forge/fitsnap3) |
 | [lanl/hippynn](https://github.com/lanl/hippynn) | A modular library for atomistic machine learning with pytorch | [:books:](https://lanl.github.io/hippynn/) | [:package:](https://anaconda.org/conda-forge/hippynn) |
+
+## Contributions to the conda-forge community 
+
+| Name | Description | Documentation | Conda Package |
+|------|-------------|:-------------:|:-------------:|
+| [conda-forge-contribution](https://github.com/jan-janssen/conda-forge-contribution) | A template repository to gather the packages a given Github user contributed to the conda-forge community | | | 
+| [shared-conda-environment](https://github.com/jan-janssen/shared-conda-environment) | A template repository to build conda environments using Github Actions for sharing with multiple users or to setup the same environment on multiple machines | | |
+| [conda_subprocess](https://github.com/pyiron/conda_subprocess) | Run a subprocess in a separate conda environment. | | [:package:](https://anaconda.org/conda-forge/conda_subprocess) |
 
 ## Personal (non scientific) projects: 
 
