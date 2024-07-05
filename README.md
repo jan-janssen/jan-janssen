@@ -23,7 +23,7 @@ In addition, I lead the development of the [pyiron workflow framework](https://g
 | Name | Description | Documentation | Conda Package |
 |------|-------------|:-------------:|:-------------:|
 | [conda-forge-contribution](https://github.com/jan-janssen/conda-forge-contribution) | A template repository to gather the packages a given Github user contributed to the conda-forge community | | | 
-| [shared-conda-environment](https://github.com/jan-janssen/shared-conda-environment) | A template repository to build conda environments using Github Actions for sharing with multiple users or to setup the same environment on multiple machines | | |
+| [shared-conda-environment](https://github.com/jan-janssen/shared-conda-environment) | A template repository to build conda environments using Github Actions for sharing with multiple users or to setup the same environment on multiple computers | | |
 | [conda_subprocess](https://github.com/pyiron/conda_subprocess) | Run a subprocess in a separate conda environment. | | [:package:](https://anaconda.org/conda-forge/conda_subprocess) |
 
 ## Personal (non scientific) projects: 
