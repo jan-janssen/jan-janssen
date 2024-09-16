@@ -10,6 +10,13 @@ In addition, I lead the development of the [pyiron workflow framework](https://g
 | [pyiron/pympipool](https://github.com/pyiron/pympipool) | Scale serial and MPI-parallel python functions over hundreds of compute nodes all from within a jupyter notebook or serial python process. | [:books:](https://pympipool.readthedocs.io) | [:package:](https://anaconda.org/conda-forge/pympipool) |
 | [pyiron/pysqa](https://github.com/pyiron/pysqa) | Simple HPC queuing system adapter for Python on based jinja templates to automate the submission script creation. | [:books:](https://pysqa.readthedocs.io) | [:package:](https://anaconda.org/conda-forge/pysqa) |
 
+## Tutorials and Supplementary Information for Lectures: 
+
+| Name | Description |Documentation | Conda Package | 
+|------|-------------|:-------------:|:-------------:|
+| [LangSim](https://github.com/jan-janssen/LangSim) | Large Language Model (LLM) agents for atomistic simulations in computational materials science | [:books:](http://jan-janssen.com/LangSim) |  |
+| [SusMet Lecture](https://github.com/jan-janssen/susmet) | Supplementary Information for the Lecture on Density Functional Theory Lecture | [:books:](http://jan-janssen.com/susmet/) |  |
+
 ## Contributions to open-source projects during my Postdoc at [Los Alamos National Lab](https://github.com/lanl):
 
 | Name | Description | Documentation | Conda Package |
