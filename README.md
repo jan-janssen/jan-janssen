@@ -7,7 +7,7 @@ In addition, I lead the development of the [pyiron workflow framework](https://g
 | Name | Description |Documentation | Conda Package | 
 |------|-------------|:-------------:|:-------------:|
 | [pyiron/atomistics](https://github.com/pyiron/atomistics) | Interfaces for atomistic simulation codes and workflows | [:books:](https://atomistics.readthedocs.io) | [:package:](https://anaconda.org/conda-forge/atomistics) |
-| [pyiron/pympipool](https://github.com/pyiron/pympipool) | Scale serial and MPI-parallel python functions over hundreds of compute nodes all from within a jupyter notebook or serial python process. | [:books:](https://pympipool.readthedocs.io) | [:package:](https://anaconda.org/conda-forge/pympipool) |
+| [pyiron/executorlib](https://github.com/pyiron/executorlib) | Up-scale python functions for high performance computing | [:books:](https://pympipool.readthedocs.io) | [:package:](https://anaconda.org/conda-forge/pympipool) |
 | [pyiron/pysqa](https://github.com/pyiron/pysqa) | Simple HPC queuing system adapter for Python on based jinja templates to automate the submission script creation. | [:books:](https://pysqa.readthedocs.io) | [:package:](https://anaconda.org/conda-forge/pysqa) |
 
 ## Tutorials and Supplementary Information for Lectures: 
