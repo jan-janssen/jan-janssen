@@ -17,7 +17,7 @@ In addition, I lead the development of the [pyiron workflow framework](https://g
 | Name | Description |Documentation | Conda Package | 
 |------|-------------|:-------------:|:-------------:|
 | [LangSim](https://github.com/jan-janssen/LangSim) | Large Language Model (LLM) agents for atomistic simulations in computational materials science | [:books:](http://jan-janssen.com/LangSim) |  |
-| [SusMet Lecture](https://github.com/jan-janssen/susmet) | Supplementary Information for the Lecture on Density Functional Theory Lecture | [:books:](http://jan-janssen.com/susmet/) |  |
+| [SusMet Lecture](https://github.com/jan-janssen/susmet) | Supplementary Information for the Lecture on Density Functional Theory | [:books:](http://jan-janssen.com/susmet/) |  |
 
 ## Contributions to open-source projects during my Postdoc at [Los Alamos National Lab](https://github.com/lanl):
 
