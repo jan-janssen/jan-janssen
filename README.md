@@ -9,7 +9,7 @@ In addition, I lead the development of the [pyiron workflow framework](https://g
 | [pyiron/atomistics](https://github.com/pyiron/atomistics) | Interfaces for atomistic simulation codes and workflows | [:books:](https://atomistics.readthedocs.io) | [:package:](https://anaconda.org/conda-forge/atomistics) |
 | [pyiron/executorlib](https://github.com/pyiron/executorlib) | Up-scale python functions for high performance computing | [:books:](https://executorlib.readthedocs.io) | [:package:](https://anaconda.org/conda-forge/executorlib) |
 | [pyiron/pylammpsmpi](https://github.com/pyiron/pylammpsmpi) | Parallel Lammps Python interface - control a mpi4py parallel LAMMPS instance from a serial python process or a Jupyter notebook | [:books:](https://pylammpsmpi.readthedocs.io) | [:package:](https://anaconda.org/conda-forge/pylammpsmpi) |
-| [pyiron/pyiron_meltingpoint](https://github.com/pyiron/pyiron_meltingpoint) | A fully automated approach to determine the melting temperature of crystalline materials | [:books:](http://pyiron.org/pyiron_meltingpoint/) | |
+| [pyiron/pyiron_meltingpoint](https://github.com/pyiron/pyiron_meltingpoint) | A fully automated approach to determine the melting temperature of crystalline unary materials using the interface method | [:books:](http://pyiron.org/pyiron_meltingpoint/) | |
 | [pyiron/pysqa](https://github.com/pyiron/pysqa) | Simple HPC queuing system adapter for Python on based jinja templates to automate the submission script creation. | [:books:](https://pysqa.readthedocs.io) | [:package:](https://anaconda.org/conda-forge/pysqa) |
 
 ## Tutorials and Supplementary Information for Lectures: 
