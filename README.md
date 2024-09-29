@@ -40,5 +40,5 @@ In addition, I lead the development of the [pyiron workflow framework](https://g
 | Name | Description | Documentation | Conda Package |
 |------|-------------|:-------------:|:-------------:|
 | [gmailsorter](https://github.com/jan-janssen/gmailsorter) | Similarity based email sorting for Google Mail using RandomForest classifiers | [:books:](https://gmailsorter.readthedocs.io/) | [:package:](https://anaconda.org/conda-forge/gmailsorter) |
-| [pyauthenticator](https://github.com/jan-janssen/pyauthenticator) | Similar to the Google authenticator just written in Python to automate annoying two factor authentication. |  | [:package:](https://anaconda.org/conda-forge/pyauthenticator) |
-| [pymov2gif](https://github.com/jan-janssen/pymov2gif) | Convert *.mov files from Mac OS X screen recordings to *.gif files for uploading on Github. | | [:package:](https://anaconda.org/conda-forge/pymov2gif) | 
+| [pyauthenticator](https://github.com/jan-janssen/pyauthenticator) | Similar to the Google authenticator just written in Python to automate annoying two factor authentication |  | [:package:](https://anaconda.org/conda-forge/pyauthenticator) |
+| [pymov2gif](https://github.com/jan-janssen/pymov2gif) | Convert *.mov files from Mac OS X screen recordings to *.gif files for uploading on Github | | [:package:](https://anaconda.org/conda-forge/pymov2gif) | 
