@@ -1,3 +1,3 @@
 # Hi there 👋
 I am Jan, the group leader for [Materials Informatics](https://www.mpie.de/5013829/matinf) at the [Max-Planck Institute for Sustainable Materials](https://github.com/eisenforschung), where I apply methods from computer science including machine learning to discover novel materials. 
-In addition, I lead the development of the [pyiron workflow framework](https://github.com/pyiron) and maintain [materials informatics related software packages](https://github.com/jan-janssen/conda-forge-contribution) on [conda-forge](https://github.com/conda-forge) to enable reproducible materials science.
+In addition, I lead the development of the [pyiron workflow framework](https://github.com/pyiron) and maintain [materials informatics related software packages](https://github.com/jan-janssen/conda-forge-contribution) for the [conda-forge community](https://github.com/conda-forge) to enable reproducible materials science.
