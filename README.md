@@ -10,4 +10,4 @@ If you are an aspiring PhD student who wants to join us in the quest of automati
 Beyond my professional interest I aim to automate repetitive tasks in my daily work, incuding: 
 * Two factor authentication wth [pyauthenticator](https://github.com/jan-janssen/pyauthenticator).
 * Email sorting with [gmailsorter](https://github.com/jan-janssen/gmailsorter).
-* Packaging of scientific software with the [conda-forge community](https://github.com/jan-janssen/conda-forge-contribution). 
+* Software packaging with the [conda-forge community](https://github.com/jan-janssen/conda-forge-contribution). 
