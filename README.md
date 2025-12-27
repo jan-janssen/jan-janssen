@@ -4,15 +4,29 @@ I am Jan and I love automation, because it helps me to focus on the important th
 ## Automate Materials Discovery :scientist: 
 Can we build a machine which autonomously discovers novel sustainable materials? This is the aim of the [Materials Informatics](https://www.mpie.de/5013829/matinf) group I lead at the [Max Planck Institute for Sustainable Materials](https://www.mpie.de). We develop [machine learning models](https://jan-janssen.com/LangSim/) for [ab-initio thermodynamics](https://www.mpie.de/5056820/phasediagram) workflows using [uncertainty quantification](https://www.mpie.de/5062775/dftuncertainty) to achieve quantitative predictions which can be directly compared with experiments. 
 
-This approach is based on our experience of developing the [pyiron](https://github.com/pyiron) workflow framework, followed by the [Python Workflow Definition](https://github.com/pythonworkflow/python-workflow-definition) and finally [executorlib](https://github.com/pyiron/executorlib) our solutions for up-scaling and rapid prototyping simulation workflows. 
-
 If you are an aspiring PhD student who wants to join us in the quest of automating materials discovery, please apply via the [International Max Planck Research School for Sustainable Metallurgy (IMPRS SusMet)](https://www.mpie.de/2747306/doctoral-program). 
+
+### Automate Scientific Workflows
+
+| Project                                                                          | Scope                                | Coverage | Github Stars |
+|----------------------------------------------------------------------------------|--------------------------------------|----------|--------------|
+| [pyiron/pyiron](https://github.com/pyiron/pyiron)                                | An integrated development environment (IDE) for computational materials science | | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron)              |
+| [pyiron/executorlib](https://github.com/pyiron/executorlib)                      | Up-scale python functions for high-performance computing (HPC) | [![codecov](https://codecov.io/gh/pyiron/executorlib/graph/badge.svg?token=KFIO3R08H3)](https://codecov.io/gh/pyiron/executorlib) | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib)              | 
+| [pythonworkflow/python-workflow-definition](https://github.com/pythonworkflow/python-workflow-definition) | Workflow interoperability for aiida, jobflow and pyiron | | ![GitHub Repo stars](https://img.shields.io/github/stars/pythonworkflow/python-workflow-definition)              |
+
+### Completed Development Projects 
+
+| Project                                                                          | Scope                                | Coverage | Github Stars |
+|----------------------------------------------------------------------------------|--------------------------------------|----------|--------------|
+| [jan-janssen/LangSim](https://github.com/jan-janssen/LangSim)                    | Large Language Model Agents for Atomistic Simulation | | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim)              |
+| [pyiron/pylammpsmpi](https://github.com/pyiron/pylammpsmpi)                      | Parallel Lammps Python interface - control a mpi4py parallel LAMMPS instance from a serial python process or a Jupyter notebook | [![codecov](https://codecov.io/gh/pyiron/pylammpsmpi/graph/badge.svg?token=DJIR6FJW85)](https://codecov.io/gh/pyiron/pylammpsmpi) | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi)    |
+| [pyiron/pysqa](https://github.com/pyiron/pysqa)                                  | Simple HPC queuing system adapter for Python on based jinja templates to automate the submission script creation           | [![codecov](https://codecov.io/gh/pyiron/pysqa/graph/badge.svg?token=N753OWIAUW)](https://codecov.io/gh/pyiron/pysqa)             | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pysqa)          |
 
 ## Automate Everything Else :rocket:
 Beyond my professional interest, I aim to automate repetitive tasks in my daily work, incuding: 
 
-| Project                                                                          | Scope                                | Github Stars |
-|----------------------------------------------------------------------------------|--------------------------------------|--------------|
-| [gmailsorter](https://github.com/jan-janssen/gmailsorter)                        | Automate sorting emails into folders | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/gmailsorter)              |
-| [pyauthenticator](https://github.com/jan-janssen/pyauthenticator)                | Automate two-factor authentication   | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pyauthenticator)          |
-| [conda-forge community](https://github.com/jan-janssen/conda-forge-contribution) | Automate software packaging          | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/conda-forge-contribution) |
+| Project                                                                          | Scope                                | Coverage | Github Stars |
+|----------------------------------------------------------------------------------|--------------------------------------|----------|--------------|
+| [jan-janssen/gmailsorter](https://github.com/jan-janssen/gmailsorter)                        | Automate sorting emails into folders | [![Coverage Status](https://coveralls.io/repos/github/jan-janssen/gmailsorter/badge.svg?branch=main)](https://coveralls.io/github/jan-janssen/gmailsorter?branch=main) | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/gmailsorter)              |
+| [jan-janssen/pyauthenticator](https://github.com/jan-janssen/pyauthenticator)                | Automate two-factor authentication   | [![Coverage Status](https://coveralls.io/repos/github/jan-janssen/pyauthenticator/badge.svg?branch=main)](https://coveralls.io/github/jan-janssen/pyauthenticator?branch=main) | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pyauthenticator)          |
+| [jan-janssen/conda-forge-contribution](https://github.com/jan-janssen/conda-forge-contribution) | Automate software packaging          | | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/conda-forge-contribution) |
