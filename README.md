@@ -14,7 +14,7 @@ If you are an aspiring PhD student who wants to join us in the quest of automati
 | [pyiron/executorlib](https://github.com/pyiron/executorlib)                      | Up-scale python functions HPC | [![codecov](https://codecov.io/gh/pyiron/executorlib/graph/badge.svg?token=KFIO3R08H3)](https://codecov.io/gh/pyiron/executorlib) | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib)              | 
 | [pythonworkflow/python-workflow-definition](https://github.com/pythonworkflow/python-workflow-definition) | Workflow interoperability standard | | ![GitHub Repo stars](https://img.shields.io/github/stars/pythonworkflow/python-workflow-definition)              |
 
-### Completed Development Projects 
+### Completed Projects 
 
 | Project                                                                          | Scope                                | Coverage | Github Stars |
 |----------------------------------------------------------------------------------|--------------------------------------|----------|--------------|
