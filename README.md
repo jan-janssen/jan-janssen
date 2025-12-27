@@ -10,6 +10,9 @@ If you are an aspiring PhD student who wants to join us in the quest of automati
 
 ## Automate Everything Else :rocket:
 Beyond my professional interest, I aim to automate repetitive tasks in my daily work, incuding: 
-* Two-factor authentication wth [pyauthenticator](https://github.com/jan-janssen/pyauthenticator)
-* Sorting emails into folders with [gmailsorter](https://github.com/jan-janssen/gmailsorter)
-* Software packaging with the [conda-forge community](https://github.com/jan-janssen/conda-forge-contribution)
+
+| Project                                                                          | Scope                                | Github Stars |
+|----------------------------------------------------------------------------------|--------------------------------------|--------------|
+| [gmailsorter](https://github.com/jan-janssen/gmailsorter)                        | Automate sorting emails into folders | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/gmailsorter)              |
+| [pyauthenticator](https://github.com/jan-janssen/pyauthenticator)                | Automate two-factor authentication   | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pyauthenticator)          |
+| [conda-forge community](https://github.com/jan-janssen/conda-forge-contribution) | Automate software packaging          | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/conda-forge-contribution) |
