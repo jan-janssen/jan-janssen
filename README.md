@@ -1,12 +1,10 @@
 # Hi there 👋
-I am Jan and I love automation, because it helps me to focus on the important things in life.
+I am Jan and I work on automating material sience with machine learning to accelerate the discovery of sustainable materials. 
 
 ## Automate Materials Discovery :scientist: 
-Can we build a machine which autonomously discovers novel sustainable materials? This is the aim of the [Materials Informatics](https://www.mpie.de/5013829/matinf) group I lead at the [Max Planck Institute for Sustainable Materials](https://www.mpie.de). We develop [machine learning models](https://jan-janssen.com/LangSim/) for [ab-initio thermodynamics](https://www.mpie.de/5056820/phasediagram) workflows using [uncertainty quantification](https://www.mpie.de/5062775/dftuncertainty) to achieve quantitative predictions which can be directly compared with experiments. 
+I lead the [Materials Informatics Group](https://www.mpie.de/5013829/matinf) at the [Max Planck Institute for Sustainable Materials](https://www.mpie.de). We develop [machine learning models](https://jan-janssen.com/LangSim/) for [ab-initio thermodynamics](https://www.mpie.de/5056820/phasediagram) workflows using [uncertainty quantification](https://www.mpie.de/5062775/dftuncertainty) to achieve quantitative predictions which can be directly compared with experiments. 
 
-If you are an aspiring PhD student who wants to join us in the quest of automating materials discovery, please apply via the [International Max Planck Research School for Sustainable Metallurgy (IMPRS SusMet)](https://www.mpie.de/2747306/doctoral-program). 
-
-### Automate Scientific Workflows
+### Scientific Workflows
 
 | Project                                                                          | Scope                                | Coverage | Github Stars |
 |----------------------------------------------------------------------------------|--------------------------------------|----------|--------------|
