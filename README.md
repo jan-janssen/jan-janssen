@@ -10,17 +10,17 @@ If you are an aspiring PhD student who wants to join us in the quest of automati
 
 | Project                                                                          | Scope                                | Coverage | Github Stars |
 |----------------------------------------------------------------------------------|--------------------------------------|----------|--------------|
-| [pyiron/pyiron](https://github.com/pyiron/pyiron)                                | An integrated development environment (IDE) for computational materials science | | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron)              |
-| [pyiron/executorlib](https://github.com/pyiron/executorlib)                      | Up-scale python functions for high-performance computing (HPC) | [![codecov](https://codecov.io/gh/pyiron/executorlib/graph/badge.svg?token=KFIO3R08H3)](https://codecov.io/gh/pyiron/executorlib) | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib)              | 
-| [pythonworkflow/python-workflow-definition](https://github.com/pythonworkflow/python-workflow-definition) | Workflow interoperability for aiida, jobflow and pyiron | | ![GitHub Repo stars](https://img.shields.io/github/stars/pythonworkflow/python-workflow-definition)              |
+| [pyiron/pyiron](https://github.com/pyiron/pyiron)                                | Atomistics development environment   | | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron)              |
+| [pyiron/executorlib](https://github.com/pyiron/executorlib)                      | Up-scale python functions HPC | [![codecov](https://codecov.io/gh/pyiron/executorlib/graph/badge.svg?token=KFIO3R08H3)](https://codecov.io/gh/pyiron/executorlib) | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib)              | 
+| [pythonworkflow/python-workflow-definition](https://github.com/pythonworkflow/python-workflow-definition) | Workflow interoperability standard | | ![GitHub Repo stars](https://img.shields.io/github/stars/pythonworkflow/python-workflow-definition)              |
 
 ### Completed Development Projects 
 
 | Project                                                                          | Scope                                | Coverage | Github Stars |
 |----------------------------------------------------------------------------------|--------------------------------------|----------|--------------|
-| [jan-janssen/LangSim](https://github.com/jan-janssen/LangSim)                    | Large Language Model Agents for Atomistic Simulation | | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim)              |
-| [pyiron/pylammpsmpi](https://github.com/pyiron/pylammpsmpi)                      | Parallel Lammps Python interface - control a mpi4py parallel LAMMPS instance from a serial python process or a Jupyter notebook | [![codecov](https://codecov.io/gh/pyiron/pylammpsmpi/graph/badge.svg?token=DJIR6FJW85)](https://codecov.io/gh/pyiron/pylammpsmpi) | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi)    |
-| [pyiron/pysqa](https://github.com/pyiron/pysqa)                                  | Simple HPC queuing system adapter for Python on based jinja templates to automate the submission script creation           | [![codecov](https://codecov.io/gh/pyiron/pysqa/graph/badge.svg?token=N753OWIAUW)](https://codecov.io/gh/pyiron/pysqa)             | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pysqa)          |
+| [jan-janssen/LangSim](https://github.com/jan-janssen/LangSim)                    | LLM Agents for Atomistic Simulation  | | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim)              |
+| [pyiron/pylammpsmpi](https://github.com/pyiron/pylammpsmpi)                      | Parallel Lammps Python interface     | [![codecov](https://codecov.io/gh/pyiron/pylammpsmpi/graph/badge.svg?token=DJIR6FJW85)](https://codecov.io/gh/pyiron/pylammpsmpi) | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi)    |
+| [pyiron/pysqa](https://github.com/pyiron/pysqa)                                  | Simple HPC queuing system adapter    | [![codecov](https://codecov.io/gh/pyiron/pysqa/graph/badge.svg?token=N753OWIAUW)](https://codecov.io/gh/pyiron/pysqa)             | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pysqa)          |
 
 ## Automate Everything Else :rocket:
 Beyond my professional interest, I aim to automate repetitive tasks in my daily work, incuding: 
