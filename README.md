@@ -10,7 +10,6 @@ I lead the [Materials Informatics Group](https://www.mpie.de/5013829/matinf) at 
 |----------------------------------------------------------------------------------|--------------------------------------|----------|--------------|
 | [pyiron/executorlib](https://github.com/pyiron/executorlib) (2025-today)         | Up-scale python functions HPC | [![codecov](https://codecov.io/gh/pyiron/executorlib/graph/badge.svg?token=KFIO3R08H3)](https://codecov.io/gh/pyiron/executorlib) | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib)              | 
 | [pyiron/pyiron](https://github.com/pyiron/pyiron) (2015-2025)                    | Atomistics development environment   | | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron)              |
-
 | [pythonworkflow/python-workflow-definition](https://github.com/pythonworkflow/python-workflow-definition) | Workflow interoperability standard | | ![GitHub Repo stars](https://img.shields.io/github/stars/pythonworkflow/python-workflow-definition)              |
 
 ### Completed Projects 
