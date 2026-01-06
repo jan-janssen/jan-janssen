@@ -8,7 +8,7 @@ I lead the [Materials Informatics Group](https://www.mpie.de/5013829/matinf) at 
 
 | Project                                                                          | Scope                                | Coverage | Github Stars |
 |----------------------------------------------------------------------------------|--------------------------------------|----------|--------------|
-| [pyiron/executorlib](https://github.com/pyiron/executorlib) (since 2025)         | Up-scale python functions HPC | [![codecov](https://codecov.io/gh/pyiron/executorlib/graph/badge.svg?token=KFIO3R08H3)](https://codecov.io/gh/pyiron/executorlib) | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib)              | 
+| [pyiron/executorlib](https://github.com/pyiron/executorlib) (since 2025)         | Up-scale python functions for HPC    | [![codecov](https://codecov.io/gh/pyiron/executorlib/graph/badge.svg?token=KFIO3R08H3)](https://codecov.io/gh/pyiron/executorlib) | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib)              | 
 | [pyiron/pyiron](https://github.com/pyiron/pyiron) (2015-2025)                    | Atomistics development environment   | | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron)              |
 | [pythonworkflow/python-workflow-definition](https://github.com/pythonworkflow/python-workflow-definition) | Workflow interoperability standard | | ![GitHub Repo stars](https://img.shields.io/github/stars/pythonworkflow/python-workflow-definition)              |
 
