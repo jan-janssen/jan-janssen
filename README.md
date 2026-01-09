@@ -1,5 +1,5 @@
 # Hi there 👋
-I am Jan and I work on automating material sience with machine learning to accelerate the discovery of sustainable materials. 
+I am Jan and I work on automating material science with machine learning to accelerate the discovery of sustainable materials. 
 
 ## Automate Materials Discovery :scientist: 
 I lead the [Materials Informatics Group](https://www.mpie.de/5013829/matinf) at the [Max Planck Institute for Sustainable Materials](https://www.mpie.de). We develop [machine learning models](https://jan-janssen.com/LangSim/) for [ab-initio thermodynamics](https://www.mpie.de/5056820/phasediagram) workflows using [uncertainty quantification](https://www.mpie.de/5062775/dftuncertainty) to achieve quantitative predictions which can be directly compared with experiments. 
